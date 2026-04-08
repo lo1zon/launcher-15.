@@ -1,7 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "2.0.0",
   "files": [
-    { "name": "Tibia.exe", "hash": "a1b2c3...", "url": "https://seu-site.com" },
-    { "name": "data/items/items.otb", "hash": "d4e5f6...", "url": "https://seu-site.com" }
+    {
+      "name": "nossoot.zip",
+      "url": "https://github.com/lo1zon/launcher-15./raw/refs/heads/main/nossoot.zip?download="
+    }
   ]
 }
